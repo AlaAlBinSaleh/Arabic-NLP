@@ -1,9 +1,13 @@
-#Saudi News Articles Analysis and Topic Modeling
+#Saudi News Articles Analysis and Topic Modeling\
+
 
 ##Project's Description:
 
-##Dataset: 
+
+##Dataset:
+
 ###Description: 
+
 This data set was initially in jason format but converted to csv format
 
 | **Column Name**  | **Description** |
@@ -15,13 +19,15 @@ This data set was initially in jason format but converted to csv format
 | author  | The author's name/s  of the an aricle  |
 | content | The article itself   |
 
-###Source and Credit: 
-Source: https://github.com/inparallel/SaudiNewsNet
-Credit: Alhagri, M. A. (2015). Saudi Newspapers Arabic Corpus (SaudiNewsNet). http://github.com/ParallelMazen/SaudiNewsNet
+###Source and Credit:
 
-Programming Laguage: 
+- Source: https://github.com/inparallel/SaudiNewsNet
+- Credit: Alhagri, M. A. (2015). Saudi Newspapers Arabic Corpus (SaudiNewsNet). http://github.com/ParallelMazen/SaudiNewsNet
 
-##Date updated: 
+##Programming Laguage: 
+
+##Date updated:
+
 Date: 
 
 
