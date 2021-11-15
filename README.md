@@ -23,9 +23,10 @@ This data set was initially in jason format but converted to csv format
 - Source: https://github.com/inparallel/SaudiNewsNet
 - Credit: Alhagri, M. A. (2015). Saudi Newspapers Arabic Corpus (SaudiNewsNet). http://github.com/ParallelMazen/SaudiNewsNet
 
-## Programming Laguage 
-![Test Image 4](https://github.com/tograh/testrepository/3DTest.png 112)
+## Programming Laguage
+python
+
 ## Date updated
-Date: 
+Date: November 15, 2021
 
 
