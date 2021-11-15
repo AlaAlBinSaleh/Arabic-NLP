@@ -1,10 +1,12 @@
+#Saudi News Articles Analysis and Topic Modeling
+
 ##Project's Description:
 
 ##Dataset: 
 ###Description: 
 This data set was initially in jason format but converted to csv format
 
-| Column Name  | Description |
+| **Column Name**  | **Description** |
 | ------------- | ------------- |
 | source  | The name of the newspaper for an article  |
 | url  | The web page link to each article   |
@@ -17,5 +19,9 @@ This data set was initially in jason format but converted to csv format
 Source: https://github.com/inparallel/SaudiNewsNet
 Credit: Alhagri, M. A. (2015). Saudi Newspapers Arabic Corpus (SaudiNewsNet). http://github.com/ParallelMazen/SaudiNewsNet
 
+Programming Laguage: 
+
 ##Date updated: 
 Date: 
+
+
