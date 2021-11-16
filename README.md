@@ -2,7 +2,7 @@
 
 
 ## Project's Description
-This project aims to analyze Saudi News Articles using NLP techniques and tool and perfoms topic modeling. This project helps to answer the following questions: 
+This project aims to analyze Saudi News Articles using NLP techniques and tools and performs topic modeling. It helps to answer the following questions: 
   1) What are the main topics categories of the Articles? 
   2) What are the attitude or views that the articles convey? 
 
@@ -25,6 +25,18 @@ Alhagri, M. A. (2015). Saudi Newspapers Arabic Corpus (SaudiNewsNet). http://git
 
 ## Programming Laguage
 Python
+
+## Approach: 
+The steps taken to answer the research question listed above.
+  - Sentiment Analysis
+  - Topic Modeling 
+
+## Limitation: 
+  - Limited packages and libraries that can help Arabic Langauge processing. 
+ 
+## Future work: 
+   - Bias Detection to explore the author point of view.  
+   - Using current news articles.
 
 ## Date updated
 November 16, 2021
