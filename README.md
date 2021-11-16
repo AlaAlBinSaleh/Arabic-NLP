@@ -2,7 +2,9 @@
 
 
 ## Project's Description
-
+This project aims to analyze Saudi News Articles using NLP techniques and tool and perfoms topic modeling. This project helps to answer the following questions: 
+  1) What are the main topics categories of the Articles? 
+  2) What are the attitude or views that the articles convey? 
 
 ## Dataset
 ### Description: 
@@ -24,9 +26,9 @@ This data set was initially in jason format but converted to csv format
 - Credit: Alhagri, M. A. (2015). Saudi Newspapers Arabic Corpus (SaudiNewsNet). http://github.com/ParallelMazen/SaudiNewsNet
 
 ## Programming Laguage
-python
+Python
 
 ## Date updated
-Date: November 15, 2021
+Date: November 16, 2021
 
 
