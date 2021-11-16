@@ -4,7 +4,7 @@
 ## Project's Description
 This project aims to analyze Saudi News Articles using NLP techniques and tools and performs topic modeling. It helps to answer the following questions: 
   1) What are the main topics categories of the Articles? 
-  2) What are the attitude or views that the articles convey? 
+  2) What are the views or attitude that the articles convey? 
 
 ## Dataset
 ### Description: 
