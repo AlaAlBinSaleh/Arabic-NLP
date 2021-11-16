@@ -29,6 +29,6 @@ This data set was initially in jason format but converted to csv format
 Python
 
 ## Date updated
-Date: November 16, 2021
+November 16, 2021
 
 
