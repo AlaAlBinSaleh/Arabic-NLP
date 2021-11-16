@@ -17,7 +17,7 @@ This data set was initially in jason format but converted to csv format
 | url  | The web page link to each article   |
 | data extracted | The date and time when an article was scarped|
 | title  | The title of an article as it appears on the newspaper|
-| author  | The author's name/s  of the an aricle  |
+| author  | The author's name/s  of  an aricle  |
 | content | The article itself   |
 
 ### Source:
