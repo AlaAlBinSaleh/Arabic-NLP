@@ -20,10 +20,8 @@ This data set was initially in jason format but converted to csv format
 | author  | The author's name/s  of the an aricle  |
 | content | The article itself   |
 
-### Source and Credit:
-
-- Source: https://github.com/inparallel/SaudiNewsNet
-- Credit: Alhagri, M. A. (2015). Saudi Newspapers Arabic Corpus (SaudiNewsNet). http://github.com/ParallelMazen/SaudiNewsNet
+### Source:
+Alhagri, M. A. (2015). Saudi Newspapers Arabic Corpus (SaudiNewsNet). http://github.com/ParallelMazen/SaudiNewsNet
 
 ## Programming Laguage
 Python
